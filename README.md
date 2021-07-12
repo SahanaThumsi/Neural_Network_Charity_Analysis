@@ -33,5 +33,5 @@ A maximum Accuracy of only .71 was reached. To improve more accuracy , more laye
 #### Attempt 2- ADDING  more neurons and layers and a relu layer
 ![2.PNG](./Resources/2.PNG)
 
-#### Attempt 3 Checking all Binnings (maybe decrease of a few)
+#### Attempt 3 Checking all Binnings (maybe decrease of a few) (1M + and 1-24999 can reduce extra bins)
 ![3.PNG](./Resources/3.PNG)
